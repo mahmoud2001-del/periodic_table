@@ -10,3 +10,11 @@ A PostgreSQL database containing information about the first 10 chemical element
 ## Usage
 
 Run: ./element.sh 1
+
+## Tests
+
+Run the automated tests with:
+
+```bash
+./test_element.sh
+```
